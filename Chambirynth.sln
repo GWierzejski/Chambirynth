@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D02E8DFF-40F7-892F-F689-C7FCC4417BF6}") = "Chambirynth", "Assembly-CSharp.csproj", "{F1091DC6-B425-8923-1A2C-B451E7D9DE5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1091DC6-B425-8923-1A2C-B451E7D9DE5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1091DC6-B425-8923-1A2C-B451E7D9DE5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1091DC6-B425-8923-1A2C-B451E7D9DE5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1091DC6-B425-8923-1A2C-B451E7D9DE5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
